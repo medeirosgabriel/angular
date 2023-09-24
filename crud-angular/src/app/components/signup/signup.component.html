@@ -1,0 +1,24 @@
+<header>
+    Signup
+</header>
+<main>
+    <div class="flex">
+        <form #f= "ngForm" (ngSubmit)="onSubmit(f)">
+            <label for="firstname">First Name: </label>
+            <input type="text" name="firstName" placeholder="First Name" ngModel required>
+            <br>
+            <label for="lastname">Last Name: </label>
+            <input type="text" name="lastName" placeholder="Last Name" ngModel required>
+            <br>
+            <label for="email">Email: </label>
+            <input type="email" name="email" placeholder="Email" ngModel required>
+            <br>
+            <label for="password">Password: </label>
+            <input type="password" name="password" placeholder="Password" ngModel required>
+            <br>
+            <input type="submit" value="Sign Up">
+            <a routerLink="/list">All Users</a>
+        </form>
+    </div>
+</main>
+
