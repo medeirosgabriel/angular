@@ -1,6 +1,10 @@
+<a routerLink="/">Home</a>
+<a routerLink="/list">All Users</a> 
 <div *ngIf="user">
     <p>First Name: {{user.firstName}}</p>
     <p>Last Name: {{user.lastName}}</p>
     <p>Email: {{user.email}}</p>
-    <button (click)="deleteByEmail(user.id)" routerLink="/list">Delete</button>
+    <button (click)="deleteById(user.id)">Delete</button>
+    <button (click)="previousUser()">Previous</button>
+    <button (click)="nextUser()">Next</button>
 </div>
