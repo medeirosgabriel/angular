@@ -113,13 +113,6 @@
       "password": "e2ad15b2-da58-4b23-900c-8ba8560261ff"
     },
     {
-      "id": 41,
-      "firstName": "Harper",
-      "lastName": "Neal",
-      "email": "harperneal@exerta.com",
-      "password": "bdcc1edf-6bad-4e1f-b998-980d60098372"
-    },
-    {
       "id": 42,
       "firstName": "Teri",
       "lastName": "Carr",
@@ -127,32 +120,11 @@
       "password": "d248334a-a8db-4b47-8dab-82d98e8db14d"
     },
     {
-      "id": 43,
-      "firstName": "Nell",
-      "lastName": "Allen",
-      "email": "nellallen@exerta.com",
-      "password": "9f529888-73c2-48df-9a47-b5eadbf6c911"
-    },
-    {
       "id": 44,
       "firstName": "Durham",
       "lastName": "Sosa",
       "email": "durhamsosa@exerta.com",
       "password": "fb6e05e1-a50c-46bf-9004-3242ca519e9a"
-    },
-    {
-      "id": 45,
-      "firstName": "Hopkins",
-      "lastName": "Warren",
-      "email": "hopkinswarren@exerta.com",
-      "password": "9376043c-3193-4e6f-bcd1-5cb844492b30"
-    },
-    {
-      "id": 46,
-      "firstName": "Theresa",
-      "lastName": "Merritt",
-      "email": "theresamerritt@exerta.com",
-      "password": "c2aa2633-e007-4e89-a94f-e9218bef69bd"
     },
     {
       "id": 47,
