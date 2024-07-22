@@ -1,1 +1,7 @@
-<p>two-way-binding works!</p>
+<form>
+    <input type="text" [(ngModel)]="name" name="name" placeholder="Type your name">
+    <input type="submit" value="Send">
+</form>
+<div *ngIf="name !== ''">
+    <p>The name is {{ name }}</p>
+</div>
