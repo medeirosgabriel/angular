@@ -7,6 +7,8 @@
     - `npm install`
     - `ng serve`
     - Running at: `http://localhost:4200/`
+- ### Running Json Server
+    - `npm run server`
 ## Moments App
 - ### App To Share Your Best Moments
 - ### Running App
